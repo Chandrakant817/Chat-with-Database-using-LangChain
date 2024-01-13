@@ -13,6 +13,8 @@ step 3. Install all the requirements:
  
 step 4. start writing the code, with standard file name as main.py
 
+## <b> Flow </b>
+![image](https://github.com/Chandrakant817/Chat-with-Database-using-LangChain/assets/69152112/7e86e78e-c6cb-4f9d-b60f-a8a8d12f98ce)
 
 ### </b> ‘Talk’ to Your Database[MySQL, SQL, or Azure Sql] Using LangChain and GenerativeAI Models </b>
 
